@@ -1,77 +1,84 @@
-# Aaditya Diwan
+# Hi, I'm Aaditya 👋
 
-### Senior Software Engineer | MSc Computer Science @ UCD (Ireland)
+### 🚀 Senior Software Engineer | MSc Computer Science @ UCD
 
-I’m a software engineer with **4+ years of experience designing and building scalable, distributed systems** in production environments.  
-Currently pursuing an MSc in Computer Science at University College Dublin, I bring a strong foundation in backend engineering, cloud-native systems, and financial domain expertise.
-
----
-
-## 💼 Professional Summary
-
-- 4+ years of experience in **backend engineering and distributed systems**
-- Strong expertise in **Java (Spring Boot)** and **cloud-native AWS architectures**
-- Proven experience in **insurance & reinsurance domain systems (underwriting, risk workflows)**
-- Skilled in designing **high-availability, fault-tolerant microservices**
-- Experience working in **cross-functional teams and mentoring engineers**
+I’m a software engineer with **4+ years of experience designing and building scalable, distributed systems**.  
+I enjoy solving complex backend problems, working with cloud-native architectures, and building systems that actually *scale in the real world*.
 
 ---
 
-## ⚙️ Technical Skills
+## 🧠 About Me
 
-### Languages
-- Java  
-- Python  
-- TypeScript  
-
-### Backend & APIs
-- Spring Boot  
-- FastAPI / Flask  
-- REST APIs  
-- GraphQL  
-
-### Cloud & Infrastructure
-- AWS (Lambda, Step Functions, API Gateway, CDK)  
-- Serverless Architectures  
-- Infrastructure as Code  
-
-### Containers & Orchestration
-- Docker  
-- Kubernetes (EKS)  
-
-### Databases
-- PostgreSQL  
-- DynamoDB  
+- 🎓 MSc Computer Science @ UCD (Ireland)
+- 💼 4+ years as a Senior Software Engineer
+- ☁️ Strong focus on cloud-native & distributed systems
+- 🏗️ Experienced in designing high-throughput backend systems
+- 📈 Passionate about performance, scalability & clean architecture
 
 ---
 
-## 🏗️ Core Competencies
+## ⚙️ Tech Stack
 
-- Distributed Systems Design  
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### 🧩 Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🗄️ Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+---
+
+### 🏗️ Architecture & Concepts
 - Microservices Architecture  
 - Event-Driven Systems  
-- API Design & Integration  
-- Performance Optimization  
-- System Scalability & Reliability  
+- Distributed Systems Design  
+- Hexagonal Architecture  
+- API Design (REST & GraphQL)  
+- Serverless Architectures  
 
 ---
 
-## 📌 Key Achievements
+## 🌟 Highlights
 
-- Led development of scalable backend systems used across multiple teams  
-- Introduced architecture patterns that improved code quality and maintainability  
-- Optimized cloud infrastructure, reducing operational costs  
-- Mentored engineers and contributed to improving overall team productivity  
-
----
-
-## 🎓 Education
-
-**MSc Computer Science**  
-University College Dublin, Ireland  
+- 🏆 Led engineering efforts and mentored team members in cloud-native development  
+- 💡 Built scalable APIs and backend systems used across multiple teams  
+- 💰 Optimized cloud infrastructure, reducing operational costs significantly  
+- 🚀 Introduced reusable architecture patterns adopted across business units  
 
 ---
 
+## ⚡ Fun Fact
+
+I enjoy playing tennis 🎾 and constantly challenge myself to improve both physically and mentally.
+
+---
 ## 🌍 Work Authorization
 
 - Based in Ireland 🇮🇪  
@@ -81,8 +88,8 @@ University College Dublin, Ireland
 
 ## 📫 Contact
 
-- LinkedIn: *[Add your link]*  
-- Email: *[Add your email]*  
+- LinkedIn: [*https://www.linkedin.com/in/aaditya-diwan/*]  
+- Email: *aadityapdiwan@gmail.com*  
 
 ---
 
@@ -96,3 +103,7 @@ University College Dublin, Ireland
 ---
 
 ⭐️ Open to Software Engineering opportunities across Ireland and Europe.
+
+
+
+
