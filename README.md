@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Diwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://aadityapdiwan.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-aadityapdiwan.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:aadityapdiwan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -53,8 +57,11 @@
 ✔ API Design (REST & GraphQL)
 ✔ Performance Optimization
 ```
+
 ---
+
 ## 🚀 Impact
+
 🏆 Led engineering efforts and mentored developers in cloud-native systems
 
 💡 Built scalable backend services used across multiple teams
@@ -66,14 +73,16 @@
 ---
 
 ## 📌 Featured Projects
-🔹 FocusFlow
 
+🔹 FocusFlow  
 🔹 MediTrack
 
 ---
+
 ## 🎾 Beyond Code
+
 Tennis enthusiast 🎾 | Fitness-focused | Continuous learner
 
---- 
+---
 
-<p align="center"> ⭐ Open to Software Engineering opportunities across Ireland & Europe </p> 
+<p align="center">⭐ Open to Software Engineering opportunities across Ireland & Europe</p>
