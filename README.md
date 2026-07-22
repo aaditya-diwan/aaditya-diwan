@@ -1,10 +1,8 @@
 <h1 align="center">Aaditya Diwan</h1>
 <h3 align="center">Senior Software Engineer | MSc Computer Science @ UCD 🇮🇪</h3>
-
 <p align="center">
-  🚀 Scalable Distributed Systems &nbsp;|&nbsp; ☁️ Cloud Native &nbsp;|&nbsp; 🧠 Backend Engineering
+  🚀 Distributed Systems &nbsp;|&nbsp; ☁️ Cloud Native &nbsp;|&nbsp; 🤖 Production AI Systems
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aaditya-diwan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Diwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,18 +29,19 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 MSc Computer Science @ University College Dublin  
-- 💼 **4+ years of experience** building scalable, distributed systems  
-- ☁️ Strong focus on **AWS cloud-native architectures**  
-- 🏗️ Experience in **high-throughput backend systems (Insurance & Reinsurance domain)**  
-- 📈 Passionate about **performance, scalability & clean architecture**
+- 🎓 MSc Computer Science @ University College Dublin
+- 💼 **5+ years** building scalable, distributed systems
+- ☁️ Deep focus on **AWS cloud-native architectures**
+- 🤖 Building **production-ready AI systems**: LLM integration, RAG, and agentic workflows
+- 🏗️ Background in **high-throughput backend systems (insurance & reinsurance)**
+- 📈 Passionate about **performance, scalability, and clean architecture**
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,fastapi,flask,graphql,aws,docker,kubernetes,postgres,dynamodb" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,angular,nextjs,graphql,aws,docker,kubernetes,postgres,mongodb,dynamodb" />
 </p>
 
 ---
@@ -51,31 +50,28 @@
 
 ```text
 ✔ Distributed Systems Design
-✔ Microservices Architecture
-✔ Event-Driven Systems
+✔ Microservices & Event-Driven Architecture
 ✔ Serverless Architectures (AWS)
 ✔ API Design (REST & GraphQL)
-✔ Performance Optimization
+✔ Production AI Systems (LLM integration, RAG, agentic tooling)
+✔ Performance & Scalability
 ```
 
 ---
 
 ## 🚀 Impact
 
-🏆 Led engineering efforts and mentored developers in cloud-native systems
-
+🏆 Led engineering efforts and mentored developers on cloud-native systems
+🤖 Shipped production AI features (LLM / RAG) and hardened them against prompt injection
 💡 Built scalable backend services used across multiple teams
-
-💰 Reduced infrastructure costs through AWS optimizations
-
-🧩 Introduced reusable architecture patterns across teams
+🧩 Introduced reusable architecture patterns adopted across teams
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 FocusFlow  
-🔹 MediTrack
+🔹 **[TennisScout AI](https://github.com/aaditya-diwan/TennisScoutAI)** — agentic sports-intelligence system orchestrating five live data sources through a tool-calling loop (Python · OpenAI Responses API)
+🔹 **[MediTrack](https://github.com/aaditya-diwan/MediTrack)** — high-scale microservices backend with full observability stack (Java 21 · Spring Boot · Kafka)
 
 ---
 
